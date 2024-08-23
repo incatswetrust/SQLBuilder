@@ -49,3 +49,6 @@ SELECT Id, FirstName, LastName, Email FROM User;
 UPDATE User SET Id = '1', FirstName = 'John', LastName = 'Doe', Email = 'john.doe@example.com' WHERE Id = 1;
 DELETE FROM User WHERE Id = 1;
 ```
+
+## Contributing
+Contributions are welcome! Feel free to submit a pull request or open an issue to discuss potential improvements or bugs.

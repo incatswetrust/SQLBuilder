@@ -1,0 +1,11 @@
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/bin/Debug/net8.0/SQLBuilder.deps.json
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/bin/Debug/net8.0/SQLBuilder.dll
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/bin/Debug/net8.0/SQLBuilder.pdb
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/SQLBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/SQLBuilder.AssemblyInfoInputs.cache
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/SQLBuilder.AssemblyInfo.cs
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/SQLBuilder.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/SQLBuilder.dll
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/refint/SQLBuilder.dll
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/SQLBuilder.pdb
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/ref/SQLBuilder.dll

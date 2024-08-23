@@ -95,3 +95,4 @@
 /Users/mac/Desktop/SQLBuilder/SQLBuilder.Tests/obj/Debug/net8.0/SQLBuilder.Tests.pdb
 /Users/mac/Desktop/SQLBuilder/SQLBuilder.Tests/obj/Debug/net8.0/SQLBuilder.Tests.genruntimeconfig.cache
 /Users/mac/Desktop/SQLBuilder/SQLBuilder.Tests/obj/Debug/net8.0/ref/SQLBuilder.Tests.dll
+/Users/mac/Desktop/SQLBuilder/SQLBuilder.Tests/obj/Debug/net8.0/SQLBuilder.Tests.sourcelink.json

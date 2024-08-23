@@ -9,3 +9,4 @@
 /Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/refint/SQLBuilder.dll
 /Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/SQLBuilder.pdb
 /Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/ref/SQLBuilder.dll
+/Users/mac/Desktop/SQLBuilder/SQLBuilder/obj/Debug/net8.0/SQLBuilder.sourcelink.json

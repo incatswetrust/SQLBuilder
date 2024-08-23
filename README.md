@@ -1,12 +1,11 @@
 # SQL Query Generator Library
 ## Overview
-The SQL Query Generator Library is a lightweight, flexible library designed to dynamically generate SQL queries for CRUD (Create, Read, Update, Delete) operations using reflection. This library adheres to SOLID principles, making it easy to maintain, extend, and integrate into your existing .NET projects.
+The SQL Query Generator Library is a lightweight, flexible library designed to dynamically generate SQL queries for CRUD (Create, Read, Update, Delete) operations using reflection.
 
 ## Features
 * Dynamic Query Generation: Automatically generates SQL queries based on your data models, reducing the need for manual SQL writing.
 * CRUD Operations: Supports generating SQL queries for Create (INSERT), Read (SELECT), Update (UPDATE), and Delete (DELETE) operations.
 * Reflection-Based: Utilizes reflection to inspect your data models, ensuring that queries are always in sync with your model definitions.
-* SOLID Design: The library is built following SOLID principles, promoting clean, maintainable, and scalable code.
 
 ## Usage
 ### Installation
